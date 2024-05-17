@@ -1,0 +1,48 @@
+[2024-05-16 23:00:28] [ INFO ] [OdolontologoService:22] creado el dao con h2
+[2024-05-16 23:00:30] [ ERROR] [BD:54] Error de Sintaxis en sentencia SQL "INSERT INTO ODONTOLOGOS VALUES (1,123123,'German','Fraire'),(2, 234324432,'Fabricio',[*]'Acosta,)"
+Syntax error in SQL statement "INSERT INTO ODONTOLOGOS VALUES (1,123123,'German','Fraire'),(2, 234324432,'Fabricio',[*]'Acosta,)"; SQL statement:
+INSERT INTO ODONTOLOGOS VALUES (1,123123,'German','Fraire'),(2, 234324432,'Fabricio','Acosta,) [42000-224]
+[2024-05-16 23:00:30] [ INFO ] [OdontoloDAOH2:91] Busconado los odontologos
+[2024-05-16 23:00:30] [ ERROR] [OdontoloDAOH2:106] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2024-05-16 23:00:30] [ INFO ] [OdontoloDAOH2:91] Busconado los odontologos
+[2024-05-16 23:00:30] [ ERROR] [OdontoloDAOH2:106] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2024-05-16 23:03:13] [ INFO ] [OdolontologoService:22] creado el dao con h2
+[2024-05-16 23:03:16] [ ERROR] [BD:54] Error de Sintaxis en sentencia SQL "INSERT INTO ODONTOLOGOS VALUES (1,'123123','German','Fraire'),(2, '234324432','Fabricio',[*]'Acosta,)"
+Syntax error in SQL statement "INSERT INTO ODONTOLOGOS VALUES (1,'123123','German','Fraire'),(2, '234324432','Fabricio',[*]'Acosta,)"; SQL statement:
+INSERT INTO ODONTOLOGOS VALUES (1,'123123','German','Fraire'),(2, '234324432','Fabricio','Acosta,) [42000-224]
+[2024-05-16 23:03:16] [ INFO ] [OdontoloDAOH2:91] Busconado los odontologos
+[2024-05-16 23:03:16] [ ERROR] [OdontoloDAOH2:106] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2024-05-16 23:03:16] [ INFO ] [OdontoloDAOH2:91] Busconado los odontologos
+[2024-05-16 23:03:16] [ ERROR] [OdontoloDAOH2:106] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2024-05-16 23:06:43] [ INFO ] [OdolontologoService:22] creado el dao con h2
+[2024-05-16 23:06:44] [ INFO ] [OdontoloDAOH2:91] Busconado los odontologos
+[2024-05-16 23:06:45] [ ERROR] [OdontoloDAOH2:106] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2024-05-16 23:06:45] [ INFO ] [OdontoloDAOH2:91] Busconado los odontologos
+[2024-05-16 23:06:45] [ ERROR] [OdontoloDAOH2:106] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2024-05-16 23:07:23] [ INFO ] [OdolontologoService:22] creado el dao con h2
+[2024-05-16 23:07:25] [ INFO ] [OdontoloDAOH2:91] Busconado los odontologos
+[2024-05-16 23:07:27] [ ERROR] [OdontoloDAOH2:106] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2024-05-16 23:07:27] [ INFO ] [OdontoloDAOH2:91] Busconado los odontologos
+[2024-05-16 23:07:27] [ ERROR] [OdontoloDAOH2:106] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2024-05-16 23:08:56] [ INFO ] [OdolontologoService:22] creado el dao con h2
+[2024-05-16 23:08:59] [ INFO ] [OdontoloDAOH2:91] Busconado los odontologos
+[2024-05-16 23:09:00] [ ERROR] [OdontoloDAOH2:106] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2024-05-16 23:09:00] [ INFO ] [OdontoloDAOH2:91] Busconado los odontologos
+[2024-05-16 23:09:00] [ ERROR] [OdontoloDAOH2:106] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2024-05-16 23:12:47] [ INFO ] [OdolontologoService:22] creado el dao con h2
+[2024-05-16 23:12:48] [ INFO ] [BD:31] Tabla creada
+[2024-05-16 23:12:48] [ INFO ] [BD:37] inserciones creadas
+[2024-05-16 23:12:48] [ INFO ] [OdontoloDAOH2:91] Busconado los odontologos
+[2024-05-16 23:12:48] [ INFO ] [OdontoloDAOH2:103] odontologos traidos con exito
+[2024-05-16 23:12:48] [ INFO ] [OdontoloDAOH2:91] Busconado los odontologos
+[2024-05-16 23:12:48] [ INFO ] [OdontoloDAOH2:103] odontologos traidos con exito
